@@ -35,7 +35,7 @@ of the robot.
 ## First Iteration of Robot Design Process (Complete)
 ### Final Version of Robot in this iteration
 
-<img src="images/IMG_20250802_222202.jpg" alt="Robot Final Version" width="400" />
+<img src="Images/IMG_20250802_222202.jpg" alt="Robot Final Version" width="400" />
 
 #### All parts that built the robot are available in the 3d folder and later will be in a directory inside this called FirstIteration
 The Process of making this robot has taken about 2 months including waiting times for 
