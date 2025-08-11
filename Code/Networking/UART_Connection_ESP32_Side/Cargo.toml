@@ -1,0 +1,6 @@
+[package]
+name = "UART_Connection_ESP32_Side"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
