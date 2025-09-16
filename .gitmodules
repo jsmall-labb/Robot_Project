@@ -1,12 +1,16 @@
 [submodule "Robot_Project_Laptop_FrontEnd"]
 	path = Robot_Project_Laptop_FrontEnd
 	url = https://github.com/jsmall-labb/Robot_Project_Laptop_FrontEnd.git
+	branch = main
 [submodule "Robot_Project_esp32"]
 	path = Robot_Project_esp32
 	url = https://github.com/jsmall-labb/Robot_Project_esp32.git
+	branch = main
 [submodule "Robot_Project_RaspPi"]
 	path = Robot_Project_RaspPi
 	url = https://github.com/jsmall-labb/Robot_Project_RaspPi.git
+	branch = main
 [submodule "Robot_Project_Laptop_BackEnd"]
 	path = Robot_Project_Laptop_BackEnd
 	url = https://github.com/jsmall-labb/Robot_Project_Laptop_BackEnd.git
+	branch = main
