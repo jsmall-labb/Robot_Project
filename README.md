@@ -22,7 +22,7 @@ of the robot.
 ## Hardware List
 
 - Rasp Pi 4 (High-level Control over Robot)
-- ESP32 Development Kit (Low-Level Control over Robot, handles Control over Sensors and Motors)
+- ESP32-WROOM-32 (Low-Level Control over Robot, handles Control over Sensors and Motors)
 - Four (Model Spec needed) IR Sensors (For wall and side object detection)
 - Four (Model Spec needed) UltraSound Sensors (For forwards and rear Object distance detection)
 - (Need spec on bread board)
