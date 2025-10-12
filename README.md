@@ -44,9 +44,11 @@ automatic driving and object detection and object awareness of the robot.
 
 ## First Iteration of Robot Design Process (Complete)
 
+<img src="Images/Robot%20UML%20diagram.png" alt="Robot UML Diagram" width="850">
+
 ### Final Version of Robot in this iteration
 
-<img src="Images/IMG_20250802_222202.jpg" alt="Robot Final Version" width="400" />
+<img src="Images/IMG_20250802_222202.jpg" alt="Robot Final Version" width="500" />
 
 #### All parts that built the robot are available in the 3d folder and later will be in a directory inside this called FirstIteration
 
