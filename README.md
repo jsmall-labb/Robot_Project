@@ -32,7 +32,7 @@ automatic driving and object detection and object awareness of the robot.
 - Four (Model Spec needed) UltraSound Sensors (For forwards and rear Object
   distance detection)
 - (Need spec on bread board)
-- Four 1K Ohm and 2K Ohm Resistors (For Voltage Divider for Logic signal voltage
+- Four 1K Ohm and  Four 2K Ohm Resistors (For Voltage Divider for Logic signal voltage
   from US sensor to ESP32 controller to step down from 5V to 3.3V)
 - Four (Model Spec needed) Motors and Wheels
 - (Model spec needed) Webcam (For Object Detection and enabling visible Light
